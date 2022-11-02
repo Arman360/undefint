@@ -1,5 +1,5 @@
 def join_us(name,rolNo):
-    return ("Hay " + name + " your form Goschi High school Your roll no is " + rolNo + " ?")
+    return (f"Hay  {name} your form Goschi High school Your roll no is {rolNo} ?")
 
 num  = input("Name ")
 rolNo = input("Roll ")
